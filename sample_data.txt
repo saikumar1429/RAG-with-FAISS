@@ -1,0 +1,8 @@
+What is Streamlit?
+Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
+What is Faiss?
+Faiss is a library for efficient similarity search and clustering of dense vectors.
+What is BERT?
+BERT is a transformer-based machine learning technique for natural language processing pre-training developed by Google.
+How does RAG work?
+RAG optimizes the output of an LLM, so it references an authoritative knowledge base before generating a response.

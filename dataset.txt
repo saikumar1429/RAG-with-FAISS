@@ -1,0 +1,20 @@
+What is RAG?
+RAG stands for Retrieval-Augmented Generation, a technique that enhances LLM output by retrieving relevant info from a knowledge base.
+How do vector embeddings work?
+Vector embeddings represent text as numbers (vectors) in a high-dimensional space where similar meanings are closer together.
+What is Faiss?
+Faiss is a library developed by Facebook AI Research for efficient similarity search and clustering of dense vectors.
+What is Streamlit used for?
+Streamlit is a Python library used to build and share data apps quickly without needing frontend experience.
+What is semantic search?
+Semantic search retrieves results based on the meaning and context of the query rather than just keyword matching.
+What is a Vector Database?
+A vector database is a database designed to store and query high-dimensional vectors for similarity search.
+difference between loc and iloc in pandas?
+loc is label-based indexing, while iloc is integer-based indexing in Pandas DataFrames.
+What is a Lambda function in Python?
+A lambda function is a small anonymous function defined with the lambda keyword, which can take any number of arguments but only one expression.
+What is Overfitting in Machine Learning?
+Overfitting occurs when a model learns the training data too well, capturing noise and details that don't generalize to new data.
+What is the purpose of Docker?
+Docker is a platform for developing, shipping, and running applications in containers to ensure consistency across environments.

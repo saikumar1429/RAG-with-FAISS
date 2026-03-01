@@ -1,0 +1,5 @@
+streamlit
+sentence-transformers
+numpy
+faiss-cpu
+protobuf==3.20.3
